@@ -251,3 +251,26 @@ strong {
   font-size: 1.8rem;
   line-height: 1.8;
 }
+
+.cta-form labal {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 500;
+  margin-bottom: 1.2rem;
+}
+
+.cta-form input {
+  width: 100%;
+  padding: 1.2rem;
+  font-size: 1.8rem;
+  font-family: inherit;
+  border: none;
+  background-color: #fdf2e9;
+  border-radius: 9px;
+}
+
+.cta-form select {
+}
+
+.cta-form button {
+}
